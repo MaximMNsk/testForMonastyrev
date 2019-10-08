@@ -6,4 +6,6 @@
 4. Идем в корень htdocs и выполняем `git clone https://github.com/MaximMNsk/testForMonastyrev.git`
 5. После того, как склонируется проект - идем в директорию `testForMonastyrev/basic` и выполняем `composer install`
 
+**Приложение будет доступно по адресу `http://localhost/testForMonastyrev` при стандартных настройках.**
+
 *Profit*
